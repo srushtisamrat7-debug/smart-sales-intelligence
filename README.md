@@ -32,47 +32,60 @@ A modern business intelligence web application built using Streamlit for analyzi
 
 ## 📸 Screenshots
 
-### Login
+---
 
-![Login](screenshots/login1.png)
+## 🔐 Login
 
-![Login](screenshots/login2.png)
+<p align="center">
+  <img src="screenshots/login1.png" width="48%">
+  <img src="screenshots/login2.png" width="48%">
+</p>
 
 ---
 
-### Dashboard
+## 📊 Dashboard
 
-![Dashboard](screenshots/Dashboard1.png)
+<p align="center">
+  <img src="screenshots/Dashboard1.png" width="48%">
+  <img src="screenshots/Dashboard2.png" width="48%">
+</p>
 
-![Dashboard](screenshots/Dashboard2.png)
-
-![Dashboard](screenshots/Dashboard3.png)
-
-![Dashboard](screenshots/Dashboard-4.png)
-
----
-
-### Forecast
-
-![Forecast](screenshots/Forecast.png)
+<p align="center">
+  <img src="screenshots/Dashboard3.png" width="48%">
+  <img src="screenshots/Dashboard-4.png" width="48%">
+</p>
 
 ---
 
-### AI Assistant
+## 🔮 Sales Forecast
 
-![AI Assistant](screenshots/AI_Assistant.png)
-
----
-
-### Reports
-
-![Reports](screenshots/Report.png)
+<p align="center">
+  <img src="screenshots/Forecast.png" width="85%">
+</p>
 
 ---
 
-### About Project
+## 🤖 AI Business Assistant
 
-![About Project](screenshots/About_project.png)
+<p align="center">
+  <img src="screenshots/AI_Assistant.png" width="85%">
+</p>
+
+---
+
+## 📄 Executive Report
+
+<p align="center">
+  <img src="screenshots/Report.png" width="85%">
+</p>
+
+---
+
+## ℹ️ About Project
+
+<p align="center">
+  <img src="screenshots/About_project.png" width="85%">
+</p>
 
 ## 📂 Project Structure
 
