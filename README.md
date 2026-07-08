@@ -34,45 +34,45 @@ A modern business intelligence web application built using Streamlit for analyzi
 
 ### Login
 
-![Login](screenshots/login-1.png)
+![Login](screenshots/login1.png)
 
-![Login](screenshots/login-2.png)
+![Login](screenshots/login2.png)
 
 ---
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard-1.png)
+![Dashboard](screenshots/Dashboard1.png)
 
-![Dashboard](screenshots/dashboard-2.png)
+![Dashboard](screenshots/Dashboard2.png)
 
-![Dashboard](screenshots/dashboard-3.png)
+![Dashboard](screenshots/Dashboard3.png)
+
+![Dashboard](screenshots/Dashboard-4.png)
 
 ---
 
 ### Forecast
 
-![Forecast](screenshots/forecast.png)
+![Forecast](screenshots/Forecast.png)
 
 ---
 
 ### AI Assistant
 
-![AI Assistant](screenshots/ai-assistant.png)
+![AI Assistant](screenshots/AI_Assistant.png)
 
 ---
 
 ### Reports
 
-![Reports](screenshots/reports.png)
+![Reports](screenshots/Report.png)
 
 ---
 
 ### About Project
 
-![About](screenshots/about.png)
-
----
+![About Project](screenshots/About_project.png)
 
 ## 📂 Project Structure
 
