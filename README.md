@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-🔗 https://smart-sales-intelligence-oa9qefmych7urkh3emapuj.streamlit.app/
+🔗 https://smart-sales-ai.streamlit.app/
 
 ## 💻 GitHub Repository
 
