@@ -1,5 +1,21 @@
 # 📊 Smart Sales Intelligence System
 
+## 🚀 Live Demo
+
+🔗 https://smart-sales-intelligence-oa9qefmych7urkh3emapuj.streamlit.app/
+
+## 💻 GitHub Repository
+
+🔗 https://github.com/srushtisamrat7-debug/smart-sales-intelligence
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red?logo=streamlit)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?logo=plotly)
+![Prophet](https://img.shields.io/badge/Prophet-Forecasting-blueviolet)
+![ReportLab](https://img.shields.io/badge/ReportLab-PDF-green)
+# 📊 Smart Sales Intelligence System
+
 A modern business intelligence web application built using Streamlit for analyzing sales datasets, forecasting future sales, generating executive reports, and answering business questions through an AI-powered assistant.
 
 ---
